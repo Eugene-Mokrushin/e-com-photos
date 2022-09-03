@@ -18,6 +18,11 @@ body {
       padding: 0;
 }
 
+main {
+      margin: auto;
+      max-width: 800px;
+}
+
 main.photos {
       padding: 10px;
       display: grid;
